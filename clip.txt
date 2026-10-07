@@ -1,0 +1,6 @@
+Clip moments (ticked only when seen in the demo screenshots):
+[x] 1. Wild West arena: wanted posters, cacti, saloon and tumbleweeds, with a gang of black-hatted outlaws.
+[x] 2. A revolver kill with a brass revolver: blood, a cash stack drops and flies to the player ("BOUNTY +$50").
+[x] 3. DEAD EYE: time slows under a white tint, red X marks appear over the outlaws, then a golden volley kills them.
+[x] 4. Dynamite (grenade launcher) blows up TNT crates around a horse.
+[ ] 5. The horse kicks the player flying (weak: not clearly seen on camera).
